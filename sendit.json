@@ -6,14 +6,14 @@
             "bin": [
                 "sendit.exe"
             ],
-            "hash": "673a28557e64a6deb3b3de41363c6742fc082cf21a33f83cdb1f372c13469ae3"
+            "hash": "4fd8113dde37ac7e62b24defa4f59c620c38992dfcf2a1d60a813569b615a315"
         },
         "arm64": {
             "url": "https://github.com/lewta/sendit/releases/download/v0.10.1/sendit_0.10.1_windows_arm64.zip",
             "bin": [
                 "sendit.exe"
             ],
-            "hash": "4b24bcfac48b867b2f90190719ae7eb80384d6a9924094cecadb8c6fa2c67dc0"
+            "hash": "68719d33f9232651e039dee6653965a83c94261ae48baee00d65aad5e94acf31"
         }
     },
     "homepage": "https://github.com/lewta/sendit",
