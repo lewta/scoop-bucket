@@ -1,12 +1,23 @@
 # scoop-bucket
 
-Scoop bucket for [sendit](https://github.com/lewta/sendit) — a traffic generation tool for HTTP, DNS, WebSocket, and headless-browser targets.
+Scoop bucket for tools by [lewta](https://github.com/lewta).
+
+## Add the bucket
+
+```powershell
+scoop bucket add lewta https://github.com/lewta/scoop-bucket
+```
+
+## Tools
+
+| Tool | Description |
+|---|---|
+| [sendit](https://github.com/lewta/sendit) | Traffic generation tool for HTTP, DNS, WebSocket, and headless-browser targets. |
 
 ## Install
 
 ```powershell
-scoop bucket add lewta https://github.com/lewta/scoop-bucket
-scoop install sendit
+scoop install lewta/sendit
 ```
 
 ## Upgrade
