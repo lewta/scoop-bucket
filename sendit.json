@@ -1,0 +1,22 @@
+{
+    "version": "0.10.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/lewta/sendit/releases/download/v0.10.0/sendit_0.10.0_windows_amd64.zip",
+            "bin": [
+                "sendit.exe"
+            ],
+            "hash": "ab24d5cd5666cf7b1423406dc096125f8d4877fc5bc788dff9806270a0d74e35"
+        },
+        "arm64": {
+            "url": "https://github.com/lewta/sendit/releases/download/v0.10.0/sendit_0.10.0_windows_arm64.zip",
+            "bin": [
+                "sendit.exe"
+            ],
+            "hash": "d1c8d16143230fee28588ae73a847265aeb766ef7ae80d625e8fa4d530be9789"
+        }
+    },
+    "homepage": "https://github.com/lewta/sendit",
+    "license": "MIT",
+    "description": "Traffic generation tool for HTTP, DNS, WebSocket, and headless-browser targets."
+}
