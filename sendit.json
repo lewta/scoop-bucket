@@ -1,19 +1,19 @@
 {
-    "version": "0.13.3",
+    "version": "0.13.4",
     "architecture": {
         "64bit": {
-  "url": "https://github.com/lewta/sendit/releases/download/v0.13.3/sendit_0.13.3_windows_amd64.zip",
+  "url": "https://github.com/lewta/sendit/releases/download/v0.13.4/sendit_0.13.4_windows_amd64.zip",
   "bin": [
       "sendit.exe"
   ],
-  "hash": "9ba3902d40055930297ee625fa6e72c7327dc65e0e37ffeec82f5219af1dc202"
+  "hash": "1f6429565588edfad8f30e4eb86a9ec57cdde9ae5e3b8f2d4bf5b4b7db183e06"
         },
         "arm64": {
-  "url": "https://github.com/lewta/sendit/releases/download/v0.13.3/sendit_0.13.3_windows_arm64.zip",
+  "url": "https://github.com/lewta/sendit/releases/download/v0.13.4/sendit_0.13.4_windows_arm64.zip",
   "bin": [
       "sendit.exe"
   ],
-  "hash": "a9cfc29cad5921a61fee3f2ecbe9804e0055212c2b7bca3be43fb059562c6298"
+  "hash": "f1d11a146c764dd0bbc6a95bf2f880ea553f0c9583b735cb2efff7f5d529d036"
         }
     },
     "homepage": "https://github.com/lewta/sendit",
